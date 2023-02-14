@@ -1,0 +1,24 @@
+/* font-family: roboto */
+
+@font-face{
+    font-family: roboto;
+    src:url('../fonts/Roboto-Bold.ttf')
+}
+
+/* font-family:open sans */
+@font-face{
+    font-family:OpenSans;
+    src:url('../fonts/Roboto-Regular.ttf')
+}
+
+/* font-family:lato */
+@font-face{
+    font-family:lato;
+    src:url('../fonts/Lato/Lato-BlackItalic.ttf')
+}
+
+/* font-family: montserrat*/
+@font-face{
+    font-family:montserrat;
+    src:url('../fonts/static/Montserrat-Regular.ttf')
+}
